@@ -1,0 +1,16 @@
+---
+title: "MeOak Place"
+---
+
+### I have a webpage!
+
+Hi, my name is MeOak and I am a graduate student in the MS Biostatistics program at the Mailman School of Health at Columbia Univeristy.
+
+And this is my first website.
+
+You can find my resume [here] ()
+
+A page giving your academic and professional experience (i.e. a resume)
+Links in the site navigation for your GitHub account, your email, and any other professional networks.
+
+<img src="images/dreams.jpg" style="width:75%">
