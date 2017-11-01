@@ -7,8 +7,6 @@ Hi, my name is MeOak and I am a graduate student in the MS Biostatistics program
 
 And this is my first website.
 
-You can find my resume [here] ()
-
-Links in the site navigation for your GitHub account, your email, and any other professional networks.
+Feel free to email me using the navigation bar found at the top of this page.
 
 <img src="images/seneca-quote-a-happy-life-is-one-which-is-in-accordance-with-its-own-n.jpg" style="width:75%">
